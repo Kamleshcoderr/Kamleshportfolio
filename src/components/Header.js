@@ -19,7 +19,7 @@ const Header = () => {
           </div>
           
           <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Kamleshkumar91356@gmail.com" target="_blank"><button className='button'>Hire Me</button></a><br></br>
-                <a href='https://drive.google.com/file/d/1WUb_D0RpvNVBYLcuu9J7oWC6e_F-9iY1/view?usp=sharing' target="_blank"><button className='button'>Dowanload CV</button></a>
+                <a href='https://drive.google.com/file/d/1WUb_D0RpvNVBYLcuu9J7oWC6e_F-9iY1/view?usp=sharing' target="_blank"><button className='button'>Download CV</button></a>
               
                 
             </div>
