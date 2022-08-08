@@ -11,7 +11,7 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <h3>Portfoli Management</h3>
+                    <h3>Portfolio Management</h3>
                     <img src={compound} alt="Compound Landing Page" />
                     <p>Portfoli  Civil Enginner
                     </p>
